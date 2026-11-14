@@ -1,0 +1,12 @@
+{
+  "email": "your-mailbox@example.com",
+  "proxy": "http://user:pass@host:port",
+  "invite_code": "",
+  "lang": "ja",
+  "impersonate": "chrome131",
+  "first_name": "三郎",
+  "last_name": "近藤",
+  "date_of_birth": "1993-11-14",
+  "send_caa": true,
+  "send_falco": true
+}
